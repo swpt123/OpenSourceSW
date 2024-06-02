@@ -1,5 +1,3 @@
-# OpenSourceSW (01)
-
 Linux Command
 =============
 
